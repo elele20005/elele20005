@@ -17,13 +17,13 @@
 
 - 📝 I regularly write articles on [I.T coding](I.T coding)
 
-- 💬 Ask me about **DevOps, react, Vite, Ja**
+- 💬 Ask me about **DevOps, React, Vite, Java**
 
 - 📫 How to reach me **ralphconsultant1@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/elele20005](https://github.com/elele20005)
 
-- ⚡ Fun fact **I've visited all States in the U.S**
+- ⚡ Fun fact **I've visited all States in the United States**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
