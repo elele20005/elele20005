@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Rafiu Lawal</h1>
-<h3 align="center">A passionate Full Stacks developer from Minneapolis,MN</h3>
+<h3 align="center">A passionate Full Stack Developer from Minneapolis,MN</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elele20005&label=Profile%20views&color=0e75b6&style=flat" alt="elele20005" /> </p>
 
@@ -49,9 +49,6 @@
 </div>
 
 ###
-<!-- GIF -->
-<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
-
 <!-- Languages and Tools Section -->
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
 
