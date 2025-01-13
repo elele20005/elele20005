@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [RAWG API Video Game](https://github.com/johben17796/PixelOracle)
 
-- 🌱 I’m currently learning **Full Stacks at UOM BootCamp, Coding**
+- 🌱 I’m currently learning **Full Stack Developer at UOM BootCamp, Coding**
 
 - 👯 I’m looking to collaborate on [Cloud native Projects](https://github.com/allenarnoldy/project1)
 
