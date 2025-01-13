@@ -42,7 +42,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elele20005&show_icons=true&locale=en&layout=compact" alt="elele20005" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elele20005&show_icons=true&locale=en" alt="elele20005" /></p>
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
