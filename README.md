@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [I.T coding](I.T coding)
 
-- 💬 Ask me about **DevOps, React, Vite, Java**
+- 💬 Ask me about **DevOps, React, Vite, JavaScript,TypeScript**
 
 - 📫 How to reach me **ralphconsultant1@gmail.com**
 
