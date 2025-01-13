@@ -32,7 +32,7 @@
 
 - ⚡ Fun fact **I've visited all States in the United States**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> ralphconsultant1@gmail.com
 <p align="left">
 </p>
 
