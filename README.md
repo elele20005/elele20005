@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Rafiu Lawal</h1>
-<h3 align="center">A passionate Full Stack Developer from Minneapolis,MN</h3>
+<h3 align="center">A passionate Full Stack Developer from Minneapolis,MN. I am 39-year-old with over 6 years of experience in the industry as a DevOps Engineer. I am passionate about leveraging technology to solve complex problems and improve business processes.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elele20005&label=Profile%20views&color=0e75b6&style=flat" alt="elele20005" /> </p>
 
@@ -79,8 +79,6 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
-
-###
 
  
 
